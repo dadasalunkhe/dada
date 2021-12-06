@@ -1,0 +1,109 @@
+body{
+
+text-align: center;
+background-color:#ADFF2F;
+}
+
+
+.name{
+  font-family: 'Corinthia', cursive;
+  font-family: 'Gothic A1', sans-serif;
+  font-family: 'Meow Script', cursive;
+  font-family: 'Smooch', cursive;
+  font-size:100px;
+  color:#DC143C;
+
+}
+.dada{
+  font-family: 'Corinthia', cursive;
+  font-family: 'Gothic A1', sans-serif;
+  font-family: 'Meow Script', cursive;
+  font-family: 'Smooch', cursive;
+  font-size:40px;
+  color:black;
+
+}
+.img-cloud{
+  height:15%;
+  width:15%;
+  margin-right:600%;
+}
+.img-sun{
+  height: 15%;
+  width: 15%;
+  margin-left: 60%;
+}
+.img-self{
+  height:15%;
+  width:15%;
+  border-radius: 100%;
+}
+.about{
+  font-family:'lobster',cursive;
+  font-size: 35px;
+  color: black;
+
+}
+}
+.arm{
+  height:10%;
+  width:15%;
+  border-radius: 60%
+}
+.skill-row{
+  width: 80%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row img{
+  width: 25%;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.skill-row h3{
+  font-size: 35px;
+}
+.skill-row p{
+  font-size: 25px;
+}
+.right{
+  float:right;
+}
+.left{
+  float: left;
+}
+  .abcd{
+  text-align:center;
+  width: 30%;
+  margin-right: 20px;
+  color:#0000CD;
+font-family: 'Corinthia', cursive;
+  }
+  .button {
+    background-color:red;
+    border: none;
+    color:pink;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  footer{
+  margin-top: 30px;
+  background-color:#FF7F50;
+  padding: 50px 0 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+footer a{
+  text-decoration: none;
+  font-size: 10px;
+  color: 	#F0F8FF;
+  font-family: 'Nunito', sans-serif;
+  margin: 100px 20px;
+}
